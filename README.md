@@ -1,6 +1,6 @@
 # Yolo v7 Fall detection
 
-Define 3 types of 'fall pose' is defined in 'plots1.py' based on Yolov7-pose model's output
+Three types of 'fall pose' is defined in 'plots1.py' based on Yolov7-pose model's output
 
 Sending alert timely and real time detecting
 
